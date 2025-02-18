@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to entropy!
+Welcome to **entropy!**
 
 We focus on building Smart, Sleek, Superior Apps.
 
