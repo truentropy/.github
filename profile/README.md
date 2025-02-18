@@ -2,7 +2,7 @@
 
 Welcome to **entropy!**
 
-We focus on building Smart, Sleek, Superior Apps.
+We focus on building **Smart, Sleek, Superior Apps.**
 
 <!--
 
