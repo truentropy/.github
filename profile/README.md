@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Welcome to entropy!
+
+We focus on building Smart, Sleek, Superior Apps.
+
 <!--
 
 **Here are some ideas to get you started:**
