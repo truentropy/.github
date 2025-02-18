@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-Welcome to **entropy!**
+Welcome to **Entropy!**
 
 We are focus on building **Smart, Sleek, Superior Mobile Apps.**
 
+https://truentropy.com
 <!--
 
 **Here are some ideas to get you started:**
